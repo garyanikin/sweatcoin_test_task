@@ -27,6 +27,7 @@
   width: 12px;
   height: 19px;
   background: url("/move.svg") no-repeat;
+  cursor: move;
 }
 
 .item__remove {
@@ -71,8 +72,8 @@
 
 .statement-container__item,
 .add-statement input {
-  background: rgba(4,38,85,0.05);
-  border: 2px solid rgba(4,38,85,0.25);
+  background: #F2F4F6;
+  border: 2px solid #B6C0CD;
   font-family: Helvetica;
   font-size: 15px;
   color: #173F61;
